@@ -1,4 +1,7 @@
 # Fire-and-Safety-Buzzer![emergency buzzer](https://user-images.githubusercontent.com/77285043/120166607-61c26480-c21a-11eb-8f8e-d009c707bc4f.png)
+
+## Code
+```
 float temp;
 float vout;
 float vout1;
@@ -42,3 +45,4 @@ void loop()
   Serial.print(gassensor);
   Serial.print();
   delay(1000);
+```
